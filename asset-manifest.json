@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eventmanagement.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/eventmanagement.github.io/static/js/main.accd7d47.js",
+    "static/js/453.c8be2364.chunk.js": "/eventmanagement.github.io/static/js/453.c8be2364.chunk.js",
+    "index.html": "/eventmanagement.github.io/index.html",
+    "main.e6c13ad2.css.map": "/eventmanagement.github.io/static/css/main.e6c13ad2.css.map",
+    "main.accd7d47.js.map": "/eventmanagement.github.io/static/js/main.accd7d47.js.map",
+    "453.c8be2364.chunk.js.map": "/eventmanagement.github.io/static/js/453.c8be2364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.accd7d47.js"
+  ]
+}
